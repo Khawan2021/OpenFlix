@@ -66,7 +66,7 @@ item6.addEventListener('click', () => {
     descricao.innerText = 'Durante um experimento para encontrar a cura de uma rara doença sanguínea, o Dr. Michael Morbius acidentalmente se transforma num sanguinário vampiro.';
 });
 
-item7.addEventListener('click', () => {
+/*item7.addEventListener('click', () => {
     link1.href="https://www.youtube.com/watch?v=oVzVdvGIC7U";
     link2.href="https://seuladogeek.com.br/cinema/peaky-blinders/";
     r.style.setProperty('--capa', "url('/img/Ciganos.jpg')");
@@ -120,4 +120,4 @@ item13.addEventListener('click', () => {
     r.style.setProperty('--capa', "url('/img/House.jpg')");
     titulo.innerText = 'Dr. House';
     descricao.innerText = 'Um médico dissidente e anti-social, que se especializou em medicina de diagnóstico. Faz o que for preciso para resolver casos intrigantes que estão no seu caminho, usando a sua equipe de médicos e sua inteligência.';
-});
+});*/
